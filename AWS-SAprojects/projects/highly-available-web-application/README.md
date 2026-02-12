@@ -7,6 +7,7 @@ Designed and deployed a fault-tolerant web application across multiple Availabil
 - EC2
 - Application Load Balancer
 - Auto Scaling Group
+- Target groups
 - CloudWatch
 - VPC
 
