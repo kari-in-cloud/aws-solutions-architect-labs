@@ -13,6 +13,15 @@ It demonstrates real-world cloud architecture, security, scalability, and automa
 - Implemented health checks and automatic recovery
 - Focus: High availability and resilience
 
+- ## Security Group
+![Security Group](securitygroup.png)
+
+## Auto Scaling Group
+![Auto Scaling Group](autoscalinggroup.png)
+
+## Target Group
+![Target Group](targetgroup.png)
+
 ### Automation with CloudFormation
 - Created Infrastructure as Code templates to deploy VPCs, EC2, and Auto Scaling
 - Reduced manual configuration and improved consistency
